@@ -76,10 +76,7 @@
     {
       "app_name": "Clip",
       "icon": "https://tutubox.io/img/Clip.png"
-    },
-    {
-      "app_name": "PicsArt++",
-      "icon": " https://tutubox.io/img/PicsArt++.png"
+
     }
     ]
 }
