@@ -1,0 +1,85 @@
+{
+    "status": "Revoked",
+    "jailbreaks": [
+    {
+     "app_name": "Odyssey",
+     "icon": "https://cdn.discordapp.com/attachments/719542170209747064/746003473543200799/image0.jpg"
+    },
+    {
+     "app_name": "Unc0ver",
+     "icon": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png"
+  },
+   {
+     "app_name": "Electra",
+      "icon": "https://pbs.twimg.com/profile_images/1002909401014030343/FnmDOlHz_400x400.jpg"
+   }
+  ],
+  "tweaked": [
+    {
+      "app_name": "Spotilife",
+      "icon": "https://e7.pngegg.com/pngimages/833/349/png-clipart-spotify-logo-streaming-media-apple-music-others-hand-symbol.png"
+    },
+    {
+      "app_name": "Cercube++",
+      "icon": "https://ipadownload.com/wp-content/uploads/2020/09/cercube_3_-_dribbble-150x150.png"
+    },
+    {
+      "app_name": "Deezer++",
+      "icon": "https://cdn.iconscout.com/icon/free/png-512/deezer-461785.png"
+    },
+    {
+    "app_name": "PandaHelper",
+      "icon": "https://panda-helper.org/wp-content/uploads/2018/10/panda-helper-original.jpg"
+    },
+    {
+      "app_name": "TutuApp",
+      "icon": "https://cydia-app.com/wp-content/uploads/2019/09/tutuapp-icon-200px.png"
+    },
+    {
+       "app_name": "Retroarch",
+      "icon": "https://tutubox.io/img/RetroArch.png"
+    }
+    ],
+   "emulators": [
+    {
+      "app_name": "Delta",
+      "icon":"https://tutubox.io/img/Delta.png"
+    },
+    {
+      "app_name": "GBA4IOS",
+      "icon": " https://tutubox.io/img/GBA4iOS.png"
+    }
+    ],
+  "paid": [
+    {
+      "app_name": "Minecraft",
+      "icon": "https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icon-minecraft.png?w=585&scale=down"
+    },
+    {
+      "app_name": "GTA Sam Adreas",
+      "icon": "https://www.rockstargames.com/sanandreas/image/mobile_fob.png"
+     },
+     {
+      "app_name": "Bloons TD6",
+      "icon":"https://images-na.ssl-images-amazon.com/images/I/712z2Yj71dL.png"
+    }
+  ],
+  "other": [
+    {
+      "app_name": "TutuBox",
+      "icon": "https://tutubox.io/AppIcon.png"
+    },
+    {
+       "app_name": "iFap",
+       "icon": "https://img.apksum.com/b7/com.aggce.eigcw/5.1.0/icon.png"
+    },
+    {
+      "app_name": "Clip",
+      "icon": "https://tutubox.io/img/Clip.png"
+    },
+    {
+      "app_name": "PicsArt++",
+      "icon": " https://tutubox.io/img/PicsArt++.png"
+    }
+    ]
+}
